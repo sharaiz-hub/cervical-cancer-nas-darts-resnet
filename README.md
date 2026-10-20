@@ -1,8 +1,8 @@
 # Cervical Cell Classification | DARTS-style Mixed Operations vs ResNet50
 
 
-** implementation:** Sharaiz Shahid   
-**Status:** Research/educational implementation; **not clinically validated**. Historical outputs are **not trustworthy held-out benchmarks**.  
+
+**Status:**** implementation: Sharaiz Shahid;    Research/educational implementation; **not clinically validated**. Historical outputs are **not trustworthy held-out benchmarks**.  
 
 ## Research question and scope
 
